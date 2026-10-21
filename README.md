@@ -20,19 +20,19 @@ I'm an MCA student skilled in Core Java, Web Development, and SQL. I'm passionat
 
 ### Selected Projects
 
-* **AI-Based Book Recommendation System** — Personalized book recommendations using Python.
-* **Online Voting System** — A web-based voting application using PHP and MySQL.
-* **Mentor–Mentee Management System** — A platform for managing mentoring activities.
-* **Real-Time Obstacle Detector** — An assistive application using Flutter and YOLO11.
+* **[AI-Based Book Recommendation System](YOUR-BOOK-PROJECT-REPOSITORY-URL)** — Personalized book recommendations using Python.
+* **[Online Voting System](YOUR-VOTING-PROJECT-REPOSITORY-URL)** — A web-based voting application using PHP and MySQL.
+* **[Mentor–Mentee Management System](YOUR-MENTOR-PROJECT-REPOSITORY-URL)** — A platform for managing mentoring activities.
+* **[Real-Time Obstacle Detector](YOUR-OBSTACLE-PROJECT-REPOSITORY-URL)** — An assistive application using Flutter and YOLO11.
 
 ### Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/rutuja084212">
+  <a href="https://www.linkedin.com/in/rutuja084212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="file:///C:/Users/RUTUJA/Downloads/Desktop/RutujaDetails/My%20Updated%20Resume.pdf">
+  <a href="YOUR-PUBLIC-RESUME-URL" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View_PDF-374151?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
   </a>
 </p>
