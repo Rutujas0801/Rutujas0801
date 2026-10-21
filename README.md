@@ -57,7 +57,7 @@ MCA student with a background in Computer Science and hands-on experience buildi
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="">
+  <a href="My Updated Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View_PDF-374151?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
   </a>
 </p>
