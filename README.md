@@ -32,7 +32,7 @@ I'm an MCA student skilled in Core Java, Web Development, and SQL. I'm passionat
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="YOUR-PUBLIC-RESUME-URL" target="_blank">
+  <a href="My Updated Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View_PDF-374151?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
   </a>
 </p>
