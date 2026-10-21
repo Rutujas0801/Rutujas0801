@@ -40,12 +40,6 @@ MCA student with a background in Computer Science and hands-on experience buildi
 * Built a role-based application using Python, FastAPI, SQLAlchemy, and SQLite.
 * Implemented mentor assignment, task tracking, messaging, and meeting scheduling.
 
-### Certifications
-
-* Python Programming — Sachi Tech Institute
-* C++ Programming — Sachi Tech Institute
-* Web Development — Sachi Tech Institute
-
 ### Connect With Me
 
 <p align="center">
