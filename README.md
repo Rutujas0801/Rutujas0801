@@ -3,7 +3,6 @@
 <p align="center">
   <em>MCA Student · SQL Enthusiast · Aspiring Software Developer</em>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Exploring+SQL+and+Databases;Building+Practical+Applications;Learning+%7C+Building+%7C+Growing" alt="Typing animation" />
 </p>
